@@ -4,7 +4,7 @@
 #
 Name     : perl-Proc-InvokeEditor
 Version  : 1.13
-Release  : 12
+Release  : 13
 URL      : https://cpan.metacpan.org/authors/id/M/MS/MSTEVENS/Proc-InvokeEditor-1.13.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MS/MSTEVENS/Proc-InvokeEditor-1.13.tar.gz
 Summary  : 'Interface to external editor from perl'
@@ -99,4 +99,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Proc/InvokeEditor.pm
+/usr/lib/perl5/*
