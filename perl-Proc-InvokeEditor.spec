@@ -4,7 +4,7 @@
 #
 Name     : perl-Proc-InvokeEditor
 Version  : 1.13
-Release  : 17
+Release  : 18
 URL      : https://cpan.metacpan.org/authors/id/M/MS/MSTEVENS/Proc-InvokeEditor-1.13.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MS/MSTEVENS/Proc-InvokeEditor-1.13.tar.gz
 Summary  : 'Interface to external editor from perl'
